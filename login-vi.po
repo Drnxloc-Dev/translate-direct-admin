@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"X-Generator: Poedit 2.2\n"
+
+#: src/js/login/Login.vue:51
+msgid "← Back to the login page"
+msgstr "← Quay lại trang đăng nhập"
+
+#: src/js/login/components/two-step-auth.vue:29
+msgid "Authenticate"
+msgstr "Xác nhận"
+
+#: src/js/login/Login.vue:42
+msgid "Click here"
+msgstr "Click vào đây"
+
+#: src/js/login/components/send-code.vue:12
+msgid "Code from E-mail"
+msgstr "Mã từ E-mail"
+
+#: src/js/login/components/login-datetime.vue:3
+msgid "Computer or server time out of sync by %{ hours } hours."
+msgstr "Thời gian máy tính hoặc máy chủ không đồng bộ trong %{ hours } giờ."
+
+#: src/js/login/components/send-message.vue:2
+msgid "Enter your Username and a confirmation link will be sent to your email account."
+msgstr "Nhập tên người dùng của bạn và một liên kết xác nhận sẽ được gửi đến tài khoản email của bạn."
+
+#: src/js/login/Login.vue:36
+msgid "Forgot Password?"
+msgstr "Quên mật khẩu?"
+
+#: src/js/login/components/login-datetime.vue:12
+msgid "format:datetime"
+msgstr ""
+
+#: src/js/login/components/standard-auth.vue:27
+msgid "Hmm, login details do not seem to be correct. Please try again."
+msgstr "Hmm,  tài khoản hoặc mật khẩu không chính xác. Vui lòng thử lại."
+
+#: src/js/login/components/language-selector.vue:7
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: src/js/login/components/send-code.vue:3
+msgid "Log In using your username and code from E-mail"
+msgstr "Đăng nhập bằng tài khoản và code của bạn từ E-mail"
+
+#: src/js/login/components/loader.vue:20
+msgid "Logged in.."
+msgstr "Đang đăng nhập..."
+
+#: src/js/login/components/login-header.vue:6
+msgid "Manage your domains, databases & other server info."
+msgstr "Quản lý tên miền, cơ sở dữ liệu và thông tin máy chủ của bạn."
+
+#: src/js/login/components/standard-auth.vue:17
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: src/js/login/components/standard-auth.vue:9
+msgid "Please enter username"
+msgstr "Vui lòng nhập tài khoản"
+
+#: src/js/login/components/send-code.vue:26
+msgid "Request New Password"
+msgstr "Yêu cầu mật khẩu mới"
+
+#: src/js/login/components/send-message.vue:14
+msgid "Send me a Link"
+msgstr "Gửi tôi link"
+
+#: src/js/login/components/standard-auth.vue:39
+msgid "Sign in to Account"
+msgstr "Đăng nhập vào tài khoản"
+
+#: src/js/login/components/login-header.vue:3
+msgid "Start DirectAdmin"
+msgstr "Đăng nhập Admin Panel"
+
+#: src/js/login/components/security-question-auth.vue:13
+msgid "Submit Answer"
+msgstr "Gửi kết quả"
+
+#: src/js/login/Login.vue:12
+msgid "This is a Trial License of DirectAdmin"
+msgstr "Đây là Bản Quyền Dùng Thử của  DirectAdmin"
+
+#: src/js/login/components/two-step-auth.vue:16
+msgid "Trust this device for %{ days } days"
+msgstr "Tin tưởng thiết bị này trong %{ days } ngày"
+
+#: src/js/login/components/two-step-auth.vue:3
+msgid "Two Step Authentication"
+msgstr "Xác thực 2 bước"
+
+#: src/js/login/components/send-code.vue:6
+#: src/js/login/components/send-message.vue:5
+msgid "Username"
+msgstr "Tài khoản"
